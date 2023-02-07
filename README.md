@@ -9,6 +9,17 @@
 
 <p align="center"> <b>Qt/QML Developer, Artificial Intelligence Student</b></p>
 <p>
+ <br />
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nillrze&theme=nightowl&show_icons=true"/>
+</p>
+
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nillrze&theme=nightowl&show_icons=true"/>
+</p>
+
   <h2 align="left"><b>My University Projects</h1>
 </p>
 <br />
@@ -29,6 +40,7 @@
 <p></p>
 <br/>
 <p>
+  
 <h2 align="left"> Languages and Tools</h3>
 </p>
 <br />
@@ -62,13 +74,7 @@
 
 ---
 
-<br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nillrze&theme=nightowl&show_icons=true"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nillrze&theme=nightowl&show_icons=true"/>
-</p>
+
 
 
 
