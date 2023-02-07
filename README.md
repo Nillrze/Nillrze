@@ -9,7 +9,7 @@
 
 <p align="center"> <b>Qt/QML Developer, Artificial Intelligence Student</b></p>
 <p>
-  <h1 align="left"><b>My University Projects</h1>
+  <h2 align="left"><b>My University Projects</h1>
 </p>
 <br />
 
@@ -29,7 +29,7 @@
 <p></p>
 <br/>
 <p>
-<h2 align="center"> Languages and Tools</h3>
+<h2 align="left"> Languages and Tools</h3>
 </p>
 <br />
 <p align="center">
@@ -64,9 +64,12 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mr17MG&theme=nightowl&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr17MG&layout=compact&theme=nightowl" width="410" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nillrze&theme=nightowl&show_icons=true" width="410"/>
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nillrze&theme=nightowl&show_icons=true" width="410"/>
+</p>
+
 
 
 <!--
