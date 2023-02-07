@@ -15,10 +15,10 @@
 
 <p align="left">
 <a href="https://github.com/Nillrze/spammercommunitydetection">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Nillrze&repo=spammercommunitydetection&theme=radical" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Nillrze&repo=spammercommunitydetection&theme=nightowl" />
 </a>
 <a href="https://github.com/Nillrze/GenderIdentification">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Nillrze&repo=GenderIdentification&theme=radical" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Nillrze&repo=GenderIdentification&theme=nightowl" />
 </a>
 </p>
 
