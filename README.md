@@ -1,4 +1,13 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Hello World!, I'm Niloofar</h1>
+</p>
+
+<p align="center">
+<a href="https://gitlab.com/Nillrze"><img src="https://img.shields.io/badge/Gitlab-ffc04d?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" /></a>
+<a href="https://www.linkedin.com/in/niloofar-rezaei"><img src="https://img.shields.io/badge/linkedin-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" /></a>
+</p>
+
+
 
 <!--
 **Nillrze/Nillrze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
