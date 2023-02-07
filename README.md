@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://gitlab.com/Nillrze"><img src="https://img.shields.io/badge/Gitlab-ffc04d?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" /></a>
+<a href="https://gitlab.com/Nillrze"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Gitlab" /></a>
 <a href="https://www.linkedin.com/in/niloofar-rezaei"><img src="https://img.shields.io/badge/linkedin-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" /></a>
 </p>
 
