@@ -64,10 +64,10 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nillrze&theme=nightowl&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nillrze&theme=nightowl&show_icons=true"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nillrze&theme=nightowl&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nillrze&theme=nightowl&show_icons=true"/>
 </p>
 
 
