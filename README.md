@@ -12,7 +12,7 @@
  <br />
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?username=Nillrze&theme=nightowl&background=000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nillrze&theme=dark&background=000000"/>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 <h2 align="left"> Languages and Tools</h3>
 </p>
 <br />
-<p align="center">
+<p align="left">
 
 <a href="https://www.Qt.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="40" height="40"/>
@@ -70,7 +70,7 @@
 
 </p>
 <br />
-<p align="center">
+<p align="left">
 </p>
 <br />
 
