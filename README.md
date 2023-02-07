@@ -53,8 +53,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dot-net" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg " alt="matlab" width="40" height="40"/>
 <br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg " alt="matlab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
