@@ -2,9 +2,9 @@
   <h1 align="center"><b>Hello World!, I'm Niloofar</h1>
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://gitlab.com/Nillrze"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Gitlab" /></a>
-<a href="https://www.linkedin.com/in/niloofar-rezaei"><img src="https://img.shields.io/badge/linkedin-1e90ff?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" /></a>
+<a href="https://www.linkedin.com/in/niloofar-rezaei"><img src="https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>" alt="Linkedin" /></a>
 </p>
 
 
