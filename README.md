@@ -12,7 +12,7 @@
  <br />
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?username=Nillrze&theme=nightowl&show_icons=true&background=000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?username=Nillrze&theme=nightowl&background=000000"/>
 </p>
 
 <p align="center">
